@@ -1,0 +1,17 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.col {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 2cm;
+    border-color:white;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-style: solid;
+    border-color: rgb(32, 31, 31);
+    padding: 30px;
+    border-radius: 10px;
+    border
+}
+
